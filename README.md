@@ -1,2 +1,0 @@
-# maincode
-self code 
