@@ -5,7 +5,7 @@ import tensorflow.contrib.crf as crf
 import time
 import codecs
 import os
-import cPickle as pickle
+import pickle
 import numpy as np
 from itertools import izip
 
