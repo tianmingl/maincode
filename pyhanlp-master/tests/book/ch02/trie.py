@@ -60,4 +60,4 @@ if __name__ == '__main__':
     # trie['自然语言'] = 'human language'
     # assert trie['自然语言'] == 'human language'
     # # 查
-    # assert trie['入门'] == 'introduction'
+    assert trie['入门'] == 'introduction'
